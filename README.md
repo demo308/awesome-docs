@@ -1,5 +1,6 @@
 # awesome-docs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub Repo stars](https://img.shields.io/github/stars/demo308/awesome-docs)
+![GitHub Repo stars](https://img.shields.io/github/stars/demo308/awesome-docs?style=for-the-badge&logo=github)
+
 
 
 Documentation Generators are the main thing for docs which I will put in here
