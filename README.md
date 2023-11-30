@@ -20,6 +20,7 @@ Documentation Generators are the main thing for docs which I will put in here
 - https://retype.com/
 - https://www.mkdocs.org/
 - https://about.readthedocs.com/?ref=readthedocs.com
+- https://nextra.site/
 
 
 
