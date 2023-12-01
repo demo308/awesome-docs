@@ -7,21 +7,17 @@ Documentation Generators are the main thing for docs which I will put in here
 
 
 - https://rentry.co/
-
 - https://github.com/vuejs/vuepress
-
 - https://github.com/docsifyjs/docsify
-
 - https://github.com/facebook/docusaurus
-
 - https://www.gitbook.com
-
 - https://www.notion.so/
 - https://retype.com/
 - https://www.mkdocs.org/
 - https://about.readthedocs.com/?ref=readthedocs.com
 - https://nextra.site/
 - https://github.com/aweekj/kiko-now
+- https://github.com/just-the-docs/just-the-docs
 
 
 
