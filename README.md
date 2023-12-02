@@ -18,6 +18,7 @@ Documentation Generators are the main thing for docs which I will put in here
 - https://nextra.site/
 - https://github.com/aweekj/kiko-now
 - https://github.com/just-the-docs/just-the-docs
+- https://github.com/discourse/discourse
 
 
 
