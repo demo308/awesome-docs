@@ -23,6 +23,7 @@ Documentation Generators are the main thing for docs which I will put in here
 - https://www.mediawiki.org/wiki/MediaWiki
 - https://docs.google.com/document/u/0/
 - https://ghost.org/
+- https://telegra.ph/
 
 
 
